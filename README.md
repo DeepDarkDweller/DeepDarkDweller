@@ -1,5 +1,4 @@
-I am the Deep-Sea Fish
-- I do engineering, and gamedev stuff mostly.
+I am the Deep-Sea Fish, I do engineering, and gamedev stuff mostly.
 
 <!---
 DeepDarkDweller/DeepDarkDweller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
